@@ -1,0 +1,19 @@
+{
+  "name": "spa-ssg",
+  "version": "0.1.0",
+  "description": "Single page application static site generator",
+  "main": "index.js",
+  "private": false,
+  "keywords": [
+    "single page application",
+    "static site generator",
+    "html"
+  ],
+  "author": "Brian Zelip <bzelip@protonmail.com> (https://zelip.me/)",
+  "license": "MIT",
+  "homepage": "https://github.com/brianzelip/spa-ssg",
+  "repository": "https://github.com/brianzelip/spa-ssg",
+  "dependencies": {
+    "playwright-firefox": "^1.10.0"
+  }
+}
