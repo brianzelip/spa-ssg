@@ -1,6 +1,6 @@
 {
   "name": "spa-ssg",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Single page application static site generator",
   "main": "index.js",
   "private": false,
